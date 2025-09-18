@@ -1,0 +1,7 @@
+streamlit
+transformers
+spacy
+pdfplumber
+python-docx
+docx2txt
+PyPDF2
